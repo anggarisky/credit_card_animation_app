@@ -1,6 +1,6 @@
 # credit_card_app
 
-A new Flutter project.
+For my subscribers from youtube.com/anggarisky and anggademy.com
 
 ## Getting Started
 
